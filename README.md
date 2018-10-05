@@ -34,7 +34,6 @@ Add a link to the Wikipedia page about the animal or the topic you're interested
 
 ## CSS Review
 
-## Javascript Review
 
 
 
