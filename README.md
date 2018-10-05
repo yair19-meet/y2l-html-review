@@ -26,7 +26,7 @@ To do that
 Not sure what to do? See the html example [here](https://www.w3schools.com/)
 
 ### 3. Add an image.
-In the same file as Lab 1, add an image of you or the animal or the topic you wrote about. Set the width to 400px.
+In the same hello.html file, add an image of you or the animal or the topic you wrote about. Set the width to 400px.
 
 ### 4. Add a link.
 Add a link to the Wikipedia page about the animal or the topic you're interested in.
