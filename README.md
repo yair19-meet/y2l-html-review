@@ -9,10 +9,10 @@
 ![copying url](https://image.ibb.co/n2wYeT/copying_clone.png)
 
 ## HTML Review
-### 2. View hello.html in a web browser:
+### 1. View hello.html in a web browser:
 Open the 'hello.html' file using a Chrome, the page should be empty.
 
-### 3. Make your page stand out!
+### 2. Make your page stand out!
 To do that
 1. Open hello.html using sublime text
 2. Change it to be topic about you or a topic you like(hint hint: Bruno Mars), your page should have the following:
@@ -25,10 +25,10 @@ To do that
  
 Not sure what to do? See the html example [here](https://www.w3schools.com/)
 
-### 4. Add an image.
+### 3. Add an image.
 In the same file as Lab 1, add an image of you or the animal or the topic you wrote about. Set the width to 400px.
 
-### 5. Add a link.
+### 4. Add a link.
 Add a link to the Wikipedia page about the animal or the topic you're interested in.
 
 
