@@ -1,6 +1,6 @@
 # Y2L-lab-1
 
-### 1. Fork and clone this repository
+### Before you start: Fork and clone this repository
 
 1. Fork this repository by clicking "Fork" on this page:
 ![forking](https://image.ibb.co/jHRieT/forking.png)
@@ -8,6 +8,7 @@
 2. Copy this repository's url by clicking the green clone button:
 ![copying url](https://image.ibb.co/n2wYeT/copying_clone.png)
 
+## HTML Review
 ### 2. View hello.html in a web browser:
 Open the 'hello.html' file using a Chrome, the page should be empty.
 
@@ -23,3 +24,18 @@ To do that
   * A h2 tag inside <body> tag
  
 Not sure what to do? See the html example [here](https://www.w3schools.com/)
+
+### 4. Add an image.
+In the same file as Lab 1, add an image of you or the animal or the topic you wrote about. Set the width to 400px.
+
+### 5. Add a link.
+Add a link to the Wikipedia page about the animal or the topic you're interested in.
+
+
+## CSS Review
+
+## Javascript Review
+
+
+
+
