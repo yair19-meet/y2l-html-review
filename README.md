@@ -33,6 +33,11 @@ Add a link to the Wikipedia page about the animal or the topic you're interested
 
 
 ## CSS Review
+### 1. Use the Tag selector to change the background of your HTML page to your favorite color
+### 2. Use a ID selector to set a CSS property of one element on your page
+### 3. Use a class selector to set a CSS property of one element on your page
+
+
 
 
 
